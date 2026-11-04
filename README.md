@@ -88,7 +88,7 @@ git diff --check
 | 王思彤 | [wincent928](https://github.com/wincent928) |
 | 俞思文 | [yusiwen1021](https://github.com/yusiwen1021) |
 | 成塘 |  [plug2778](https://github.com/plug2778) |
-| 何梓萱 | — |
+| 何梓萱 | [18356381572-cmd](https://github.com/18356381572-cmd) |
 | 胡佳宁 | — |
 | 董润叶 | — |
 | 王晨雨 | Y_eaaa0611 |
@@ -98,7 +98,7 @@ git diff --check
 | 周倩颖 | [Sylvia777777](https://github.com/Sylvia777777)|
 | 艾克代·艾麦提 | [aabb0101aa](https://github.com/aabb0101aa) |
 | 周煜莹 | [ttaango](https://github.com/ttaango) |
-| 顾金昊 | — |
+| 顾金昊 | [wudengfen-gjh](https://github.com/wudengfen-gjh) |
 | 李沁婷 | — |
 | 谢礼翰 | — |
 | 瞿李睿 | [qulirui](https://github.com/qulirui) |
